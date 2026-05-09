@@ -83,4 +83,4 @@ Banasthali University, Jaipur
 ## Connect With Me
 📍 Jabalpur, Madhya Pradesh, India  
 📧 anusaka143@gmail.com  
-💼 LinkedIn: [Anushka Singh](https://www.linkedin.com/in/anushka-30042b164/)
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/anushka-30042b164/" target="_blank">Anushka Singh</a>
